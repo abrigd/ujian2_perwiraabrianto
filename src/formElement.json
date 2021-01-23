@@ -1,0 +1,32 @@
+[
+    {
+        "page_label": "ujian2_perwira_abrianto",
+        "fields": [
+            {
+                "type": "radio",
+                "soal": "1. Siapa penemu baling-baling bambu",
+                
+                "a" : " Doraemon",
+                "b" : " Nobita",
+                "c" : " Giant",
+                "d" : " Suneo"
+
+                
+            },
+     
+            {
+                "type": "checkbox",
+                "soal": "2. Pilihlah 3 yang benar menurut aqil",
+                "option1" : " Trainer Juara Coding",
+                "option2" : " Manusia",
+                "option3" : " Anggota Avenger"
+                
+            },
+            {
+                "type": "text",
+                "soal": "3. Ceritakan pengalaman anda ketika tidur"
+                
+            }
+        ]
+    }
+]
